@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.input-div{
+    background-color: rgb(255, 255, 255);
+    height: 20vh;
+}
+
+.input-div input{
+    border: none;
+    padding: 20px;
+    width: 90%;
+}
+.input-div input:focus {
+    outline: none;
+  }
+
+.submit-btn-div{
+    margin: 10px;
+}
+
+.submit-btn{
+    position: absolute;
+    bottom: 10%;
+    padding: 3px;
+    left: 97%;
+    background: white;
+    border: none;
+    color: gray;
+    height: 4vh;
+}
+
+.icon-send{
+    border: none !important;
+    padding: 2px;
+    font-size: 20px;
+    color: var(--muted);
+}
+

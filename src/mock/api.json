@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Gadgets Support",
+    "imageURL": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGhvbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654321",
+    "latestMessageTimestamp": 1632205237669,
+    "messageList": [
+      {
+        "messageId": "msg1",
+        "message": "Hi, how can I assist you?",
+        "timestamp": 1632205137669,
+        "sender": "BOT",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg2",
+        "message": "Need help with my recent purchase",
+        "timestamp": 1632205237669,
+        "sender": "USER",
+        "messageType": "text"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Fashion Wear Experts",
+    "imageURL": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmFzaGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654322",
+    "latestMessageTimestamp": 1632105237669,
+    "messageList": []
+  },
+  {
+    "id": 3,
+    "title": "Home Decor Specialists",
+    "imageURL": "https://images.unsplash.com/photo-1616046229478-9901c5536a45?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654323",
+    "latestMessageTimestamp": 1631105237669,
+    "messageList": [
+      {
+        "messageId": "msg3",
+        "message": "Hello, how may I assist you today?",
+        "timestamp": 1631105137669,
+        "sender": "BOT",
+        "messageType": "optionedMessage",
+        "options": [
+          {
+            "optionText": "Request a callback",
+            "optionSubText": "Response time: Within 5 minutes"
+          },
+          {
+            "optionText": "View My Orders"
+          }
+        ]
+      },
+      {
+        "messageId": "msg4",
+        "message": "I want to request a callback",
+        "timestamp": 1631105237669,
+        "sender": "USER",
+        "messageType": "text"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Electronics Support",
+    "imageURL": "https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654324",
+    "latestMessageTimestamp": 1630005237669,
+    "messageList": [
+      {
+        "messageId": "msg5",
+        "message": "Hi there, how can I assist you?",
+        "timestamp": 1629799837669,
+        "sender": "BOT",
+        "messageType": "optionedMessage",
+        "options": [
+          {
+            "optionText": "Request a callback",
+            "optionSubText": "Response time: Within 5 minutes"
+          },
+          {
+            "optionText": "View My Orders"
+          }
+        ]
+      },
+      {
+        "messageId": "msg6",
+        "message": "I would like to request a callback",
+        "timestamp": 1629799937669,
+        "sender": "USER",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg7",
+        "message": "Hello, how may I assist you?",
+        "timestamp": 1629899937669,
+        "sender": "BOT",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg8",
+        "message": "I need help with my recent order",
+        "timestamp": 1629999937669,
+        "sender": "USER",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg9",
+        "message": "Hello, how can I assist you?",
+        "timestamp": 1630000037669,
+        "sender": "BOT",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg10",
+        "message": "I have a query about my order",
+        "timestamp": 1630001037669,
+        "sender": "USER",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg5",
+        "message": "Hi there, how can I assist you?",
+        "timestamp": 1630002037669,
+        "sender": "BOT",
+        "messageType": "optionedMessage",
+        "options": [
+          {
+            "optionText": "Request a callback",
+            "optionSubText": "Response time: Within 5 minutes"
+          },
+          {
+            "optionText": "View My Orders"
+          }
+        ]
+      },
+      {
+        "messageId": "msg6",
+        "message": "I need assistance with my purchase",
+        "timestamp": 1630003037669,
+        "sender": "USER",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg11",
+        "message": "Hello, how may I assist you?",
+        "timestamp": 1630004037669,
+        "sender": "BOT",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg12",
+        "message": "I have a question about my order",
+        "timestamp": 1630004137669,
+        "sender": "USER",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg13",
+        "message": "Hello, how can I assist you?",
+        "timestamp": 1630005137669,
+        "sender": "BOT",
+        "messageType": "text"
+      },
+      {
+        "messageId": "msg14",
+        "message": "I need help with my recent purchase",
+        "timestamp": 1630005237669,
+        "sender": "USER",
+        "messageType": "text"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Home Appliances Experts",
+    "imageURL": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGFwcGxpYW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654325",
+    "latestMessageTimestamp": 1620005237669,
+    "messageList": [
+      {
+        "messageId": "msg1",
+        "message": "Hello, how can I help you?",
+        "timestamp": 1620001237669,
+        "sender": "BOT"
+      },
+      {
+        "messageId": "msg2",
+        "message": "Need assistance with my recent order",
+        "timestamp": 1620005237669,
+        "sender": "USER"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Sporting Goods Support",
+    "imageURL": "https://images.unsplash.com/photo-1599280174407-fdc3e8c47856?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3BvcnRpbmclMjBHb29kc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654326",
+    "latestMessageTimestamp": 1598523369945,
+    "messageList": []
+  },
+  {
+    "id": 7,
+    "title": "Beauty Products Support",
+    "imageURL": "https://images.unsplash.com/photo-1612817288484-6f916006741a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmVhdXR5JTIwUHJvZHVjdHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654327",
+    "latestMessageTimestamp": 1598517840547,
+    "messageList": []
+  },
+  {
+    "id": 8,
+    "title": "Outdoor Gear Support",
+    "imageURL": "https://images.unsplash.com/photo-1485809052957-5113b0ff51af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8T3V0ZG9vciUyMEdlYXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654328",
+    "latestMessageTimestamp": 1590576854189,
+    "messageList": []
+  },
+  {
+    "id": 9,
+    "title": "Kitchen Essentials Support",
+    "imageURL": "https://images.unsplash.com/photo-1565286564554-14ff71615b16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S2l0Y2hlbiUyMEVzc2VudGlhbHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654329",
+    "latestMessageTimestamp": 1589519579618,
+    "messageList": []
+  },
+  {
+    "id": 10,
+    "title": "Books & Stationery Support",
+    "imageURL": "https://plus.unsplash.com/premium_photo-1677526779343-21f07edee092?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Qm9va3MlMjAlMjYlMjBTdGF0aW9uZXJ5fGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+    "orderId": "OD0987654330",
+    "latestMessageTimestamp": 1589468548314,
+    "messageList": []
+  }
+]

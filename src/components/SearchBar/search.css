@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.search-input-div {
+  flex-direction: column;
+  display: flex;
+  margin: 2px;
+}
+
+.label-div {
+  margin: 2px;
+}
+
+.search-input-div p {
+  font-size: 25px;
+}
+
+.search-input-div input {
+  padding: 5px;
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+.search-input-div input:focus {
+  outline: none;
+}
